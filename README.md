@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Xavaitron
-- 👀 I’m interested in blockchain/cryptocurrency
-- 🌱 I’m currently learning CV
+- 👀 I’m interested in web3 / web dev
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on open source contibutions
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me pratyushks23@iitk.ac.in
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
